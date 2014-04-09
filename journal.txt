@@ -1,9 +1,9 @@
 Author: Michelle Hulin	
 Title:
 
-Abstract:
+Abstract: 
 
 Introduction:
 Data:
-Conclusion: 
+Conclusion: Conclusions added 
 
