@@ -4,6 +4,6 @@ Title:
 Abstract:
 
 Introduction:
-Data:
-Conclusion: 
+Data: The data will be collected in the future
+Conclusion: Add conclusions
 
