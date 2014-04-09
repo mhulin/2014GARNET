@@ -1,9 +1,8 @@
-Author: Michelle Hulin	
-Title:
-
-Abstract:
+Author: Me
+Title: Best paper ever
+Abstract: 
 
 Introduction:
 Data: The data will be collected in the future
-Conclusion: Add conclusions
+Conclusion: Add conclusions 
 
